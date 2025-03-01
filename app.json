@@ -12,17 +12,17 @@
   "env": {
     "SESSION_ID": {
       "description": "Enter your Jin bot session id here; must start with JIN~",
-      "value": "",
+      "value": "JIN~4xInVCaK#e-C_SnCzYtBE2xJ61e0dLUUg6awOtB0poULbuPznsK8",
       "required": false
     },
     "BOT_NAME": {
       "description": "Enter your bot name here",
       "value": "ᴊɪɴᴡᴏᴏ-ᴠ2",
-      "required": false
+      "required": true
     },
     "OWNER_NUMBER": {
       "description": "Enter your number here",
-      "value": "263714757857",
+      "value": "923178399498",
       "required": true
     },
     "OWNER_NAME": {
